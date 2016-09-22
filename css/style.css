@@ -1,2 +1,3 @@
-p {color:red;}
-.bg1 {background-image: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-0/p206x206/10712811_413348915495710_6647294153182010070_n.jpg?oh=604663b49941ff53a3452127b85157b2&oe=586E132E"}
+.bg1 {	width:100%;
+	    height: 200px;
+		background-image: "https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-0/p206x206/10712811_413348915495710_6647294153182010070_n.jpg?oh=604663b49941ff53a3452127b85157b2&oe=586E132E"}
